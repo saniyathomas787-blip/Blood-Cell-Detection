@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+runs/
+archive.zip
+BCCD-Dataset-blood-cells-detection-master/
+blood_dataset/
+yolo11n.pt
